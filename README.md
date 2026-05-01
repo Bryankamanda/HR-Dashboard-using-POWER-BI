@@ -1,7 +1,5 @@
 # HR Analytics Dashboard – Power BI
 
-![HR Dashboard](dashboard.png)
-
 ## Overview
 
 This project presents a comprehensive **HR Analytics Dashboard** built in **Microsoft Power BI**, designed to provide full workforce insights at a glance. The dashboard enables HR managers and business leaders to monitor employee demographics, service tenure, promotion eligibility, job levels, and retrenchment status — all from a single interactive view.
